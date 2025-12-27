@@ -1,4 +1,4 @@
-# Enclavamiento de motor (simulacion):
+# Enclavamiento básico de motor en TIA Portal (Simulación):
 
 Ejercicio básico de programación de PLC en Siemens TIA Portal v16.  
 Se implementa un enclavamiento de motor utilizando marcas virtuales en un PLC S7-1200.  
