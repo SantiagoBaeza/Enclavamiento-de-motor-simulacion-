@@ -47,7 +47,7 @@ Ahora lo que nos interesaba del proyecto, ver el enclavamiento en accion.
 3) El enclavamiento dejo encendido nuestro motor, si queremos apagrlo vamos a forzar a Stop Button de 0 a 1:
 ![Simulcion3](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/07%20boton%20sin%20presionar%20de%20vuelta%20.jpg)
 
-4) Apagado del motor y fin de la simulacion:
+4) Apagado del motor y fin de la simulacion:  
 ![Simulcion4](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/08%20boton%20stop%20presionado%20.jpg)
 
 ## Comentarios finales: 
