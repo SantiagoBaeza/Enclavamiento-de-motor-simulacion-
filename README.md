@@ -48,4 +48,7 @@ Ahora lo que nos interesaba del proyecto, ver el enclavamiento en accion.
 ![Simulcion3](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/07%20boton%20sin%20presionar%20de%20vuelta%20.jpg)
 
 4) Apagado del motor y fin de la simulacion:
+![Simulcion4](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/08%20boton%20stop%20presionado%20.jpg)
 
+## Comentarios finales: 
+A continuacion se deja el archivo del proyecto para que cualquier persona con acceso al software pueda simularlo el mismo: 
