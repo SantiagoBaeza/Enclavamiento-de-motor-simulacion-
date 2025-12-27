@@ -48,4 +48,4 @@ Ahora lo que nos interesaba del proyecto, ver el enclavamiento en accion.
 ![Simulcion4](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/08%20boton%20stop%20presionado%20.jpg)
 
 ## Comentarios finales: 
-A continuacion se deja el archivo del proyecto para que cualquier persona con acceso al software pueda simularlo el mismo: [Archivo](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/09%20Project.ap16) . El software TIA Portal V16 me fue proporcionado desde el curso de Udemy que estoy llevando  cabo, este archivo es con el fin de practicar y dejar registro de mis avances. 
+El [archivo](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/09%20Project.ap16) del proyecto se incluye para que cualquier persona con acceso a TIA Portal V16 pueda abrirlo y realizar la simulación. En mi caso, el software fue proporcionado como parte del curso de Udemy que estoy realizando. Este ejercicio tiene como objetivo servir de práctica y dejar registro de mis avances en programación de PLC.
