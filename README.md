@@ -1,11 +1,8 @@
 # Enclavamiento de motor (simulacion):
 
-Este es uno de mis primeros ejercicios en programación de PLC. Aunque se trata de una lógica básica, es fundamental porque son conceptos que, si no se practican, tienden a olvidarse con el tiempo.
-El ejercicio consiste en un enclavamiento de motor:
-• 	El motor se enciende mediante un botón de inicio de tipo normalmente abierto.
-• 	Se mantiene activo mientras la condición de arranque esté presente.
-• 	Al presionar el botón de parada, la señal se interrumpe y el motor se apaga.
-Este tipo de prácticas son la base para construir automatismos más complejos y confiables en el futuro.
+Ejercicio básico de programación de PLC en Siemens TIA Portal v16.  
+Se implementa un enclavamiento de motor utilizando marcas virtuales en un PLC S7-1200.  
+Este proyecto forma parte de mi práctica y documentación personal en automatización industrial.
 
 ---
 
