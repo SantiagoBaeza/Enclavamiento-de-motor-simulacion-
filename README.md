@@ -31,8 +31,21 @@ guardado y encendido:
 ![Configuracion3](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/03%20pasos%20para%20encender.jpg)
 
 inicio de simulacion y forzado: 
-![Simulcion](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/04%20simulacion%20.jpg)
+![Simulcion0](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/04%20simulacion%20.jpg)
 
 de esa forma se crea el proyecto y se inicia la simulacion, ahora veamos el comportamiento del enclavamiento...
 
 ### 4) Enclavamiento: 
+Ahora lo que nos interesaba del proyecto, ver el enclavamiento en accion. 
+
+1) Vamos a forzar a Start Button de 0 a 1 (indicando que el operador lo presiono):
+![Simulcion1](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/05%20boton%20sin%20presionar%20.jpg)
+
+2) El motor esta energizado, ahora vamos a forzar a Start Button de 1 a 0 (indicando que se dejo de presionar):
+![Simulcion2](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/06%20boton%20presionado%20.jpg)
+
+3) El enclavamiento dejo encendido nuestro motor, si queremos apagrlo vamos a forzar a Stop Button de 0 a 1:
+![Simulcion3](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/07%20boton%20sin%20presionar%20de%20vuelta%20.jpg)
+
+4) Apagado del motor y fin de la simulacion:
+
