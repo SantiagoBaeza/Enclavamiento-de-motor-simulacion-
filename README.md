@@ -1,3 +1,4 @@
+[⬅️ Volver a "Proyectos con PLC"](https://github.com/SantiagoBaeza/PLC-Siemens-TIA-Portal-)
 # Enclavamiento básico de motor en TIA Portal (Simulación):
 
 Ejercicio básico de programación de PLC en Siemens TIA Portal v16.  
@@ -52,3 +53,7 @@ Ahora lo que nos interesaba del proyecto, ver el enclavamiento en accion.
 
 ## Comentarios finales: 
 El [archivo](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/09%20Project.ap16) del proyecto se incluye para que cualquier persona con acceso a TIA Portal V16 pueda abrirlo y realizar la simulación. En mi caso, el software fue proporcionado como parte del curso de Udemy que estoy realizando. Este ejercicio tiene como objetivo servir de práctica y dejar registro de mis avances en programación de PLC.
+
+---
+
+> 🧩 Estos espacios estan en construcción y se actualizan de forma frecuente.
