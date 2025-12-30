@@ -47,5 +47,8 @@ Ahora lo que nos interesaba del proyecto, ver el enclavamiento en accion.
 4) Apagado del motor y fin de la simulacion:  
 ![Simulcion4](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/08%20boton%20stop%20presionado%20.jpg)
 
+5) Actualizacion del esquema: Mas adentrado en las clases se hablo sobre la importancia de algunos protocolos de seguridad con respecto a los "Stop Buttons" y se propuso un esquema que, aunque cumple la misma funcion que el esquema original, este hace enfasis en el papel fundamental que juega dicho boton de emergencia:
+![Simulcion5](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/10%20actualizacion%20ejercicio%20enclavameinto%20.jpg)
+
 ## Comentarios finales: 
 El [archivo](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/09%20Project.ap16) del proyecto se incluye para que cualquier persona con acceso a TIA Portal V16 pueda abrirlo y realizar la simulación. En mi caso, el software fue proporcionado como parte del curso de Udemy que estoy realizando. Este ejercicio tiene como objetivo servir de práctica y dejar registro de mis avances en programación de PLC.
