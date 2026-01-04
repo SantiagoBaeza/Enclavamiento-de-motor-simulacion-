@@ -1,4 +1,4 @@
-[⬅️ Volver a "Proyectos con PLC"](https://github.com/SantiagoBaeza/PLC-Siemens-TIA-Portal-)
+[⬅️ Volver a "Conceptos de Ladder"](https://github.com/SantiagoBaeza/Conceptos-importantes-de-Ladder/tree/main)
 # Enclavamiento básico de motor en TIA Portal (Simulación):
 
 Ejercicio básico de programación de PLC en Siemens TIA Portal v16.  
